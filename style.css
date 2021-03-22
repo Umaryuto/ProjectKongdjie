@@ -1,0 +1,154 @@
+.tekskongdjie{
+    text-align: center;
+}
+/* ABOUT */
+#about{
+    font-family: lato;
+}
+
+.tentang{
+    background-color: #D6CBCB;
+    text-align: center;
+    height: auto;
+    width: auto ;
+}
+
+.mitra1{
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.mitra1 p{
+  padding-top: 20px;  
+}
+
+.texbox{
+
+}
+
+.texbox p{
+    margin: auto;
+    font-weight: bold;
+    color: black;
+}
+
+.tentang p{
+    padding-top: 20px;
+
+}
+
+/* AKHIR ABOUT */
+
+/* CONTACT */
+.contact{
+    background-color: #9D5A06;
+    /* height: 180px; */
+}
+.container{
+    font-family: lato;
+    color: #3D2120 ;
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.contact1 img{
+    width: 35px;
+    height: 35px;
+    margin-right: 20px;
+}
+.contactmid {
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.col-sm .contactmid .cmid {
+    color: black;
+    text-decoration: none;
+}
+
+#email{
+    width: 35px;
+    height: 26px;
+}
+#mui{
+    width: 80px;
+    height: 77px;
+}
+
+#bpom{
+    width: 80px;
+    height: 80px;
+}
+.sertifikat img{
+    width: 100px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.sertifikat {
+    text-align: center;
+    padding: 5px;
+}
+
+.box{
+    background-color: #3D2120;
+    opacity: 75%;
+    border-radius: 5px;
+    padding: 4px;
+
+}
+/* AKHIR CONTACT */
+
+/* location */
+.location{
+    background-color: #3D2120;
+    padding: 50px;
+}
+
+.peta-indo{
+    background-color: #9D5A06;
+    border-color: white;
+    position: relative;
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+    height: auto;
+    border-color: aquamarine;
+}
+
+.peta-indo img{
+    width: 100%;
+    height: auto;
+    z-index: 2;
+}
+#peta{
+    display: block;
+    padding: auto;
+
+}
+
+.titik{
+    text-decoration: none;
+    color: white;
+}
+.text{
+    text-decoration: none;
+    color: white;
+}
+/* Akhir Locat */
+
+/* FOOTER */
+.footer{
+    font-family: "lato";
+    text-align: center  ;
+    color: #9D5A06;
+    background-color: #3D2120 ;
+}
+/* AKHIR FOOTER */
+
+/* VERSI MOBILE */
+@media (max-width: 992px) {
+
+}
